@@ -1,7 +1,6 @@
 package com.example.instagramclient;
 
 import android.os.Bundle;
-import android.support.v7.app.ActionBar;
 import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -15,11 +14,15 @@ public class CommentsActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_comments);
 
-        ActionBar actionBar = getSupportActionBar();
-        actionBar.setDisplayShowHomeEnabled(true);
+     //   ActionBar actionBar = getSupportActionBar();
+     //   actionBar.setDisplayShowHomeEnabled(true);
       //  actionBar.setIcon(R.drawable.back);
 
       //  getActionBar().setDisplayHomeAsUpEnabled(true);
+
+        getSupportActionBar().setHomeButtonEnabled(true);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+       // getSupportActionBar().s("Comments");
 
         // grab the comments to display
         int position = getIntent().getExtras().getInt("photo_position");
