@@ -8,23 +8,23 @@ Time spent: 24 hours spent in total
 
 The following **required** functionality is completed:
 
-* [ok] User can **scroll through current popular photos** from Instagram
-* [ok] For each photo displayed, user can see the following details:
-  * [ok] Graphic, Caption, Username
-  * [ok ] Relative timestamp, like count, user profile image
+* [x] User can **scroll through current popular photos** from Instagram
+* [x] For each photo displayed, user can see the following details:
+  * [x] Graphic, Caption, Username
+  * [x] Relative timestamp, like count, user profile image
 
 The following **optional** features are implemented:
 
-* [ok] User can **pull-to-refresh** popular stream to get the latest popular photos
-* [ok] Show latest comments for each photo
-* [ok] Display each photo with the same style and proportions as the real Instagram
-* [ok] Display each user profile image using a RoundedImageViewDisplay each user profile image using a RoundedImageView
-* [ok] Improved the user interface through styling and coloring
+* [x] User can **pull-to-refresh** popular stream to get the latest popular photos
+* [x] Show latest comments for each photo
+* [x] Display each photo with the same style and proportions as the real Instagram
+* [x] Display each user profile image using a RoundedImageViewDisplay each user profile image using a RoundedImageView
+* [x] Improved the user interface through styling and coloring
 
 The following **bonus** features are implemented:
 
-* [ok] Show last 1 comments for each photo
-* [ok] Allow user to view all comments for an image within a separate activity
+* [x] Show last 1 comments for each photo
+* [x] Allow user to view all comments for an image within a separate activity
  
 
 
