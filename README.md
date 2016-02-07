@@ -19,7 +19,6 @@ The following **optional** features are implemented:
 * [ok] Show latest comments for each photo
 * [ok] Display each photo with the same style and proportions as the real Instagram
 * [ok] Display each user profile image using a RoundedImageViewDisplay each user profile image using a [RoundedImageView](https://github.com/vinc3m1/RoundedImageView)
-* [  ] Display a nice default placeholder graphic for each image during loading
 * [ok] Improved the user interface through styling and coloring
 
 The following **bonus** features are implemented:
@@ -33,4 +32,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/cbaja/InstagramClient-SFO/tree/1120ec82fa0a1735566c133cffe4f963dcaf352d#' title='Video Walkthrough' width='' alt='Video Walkthrough' />
