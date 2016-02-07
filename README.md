@@ -32,4 +32,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/cbaja/InstagramClient-SFO/blob/master/instagramClient-1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/cbaja/InstagramClient-SFO/blob/master/instagramClient-2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
